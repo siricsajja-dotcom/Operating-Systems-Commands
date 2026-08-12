@@ -1,5 +1,5 @@
 # Operating-Systems-Commands
-# Project 1 — Custom Unix Shell
+# Custom Unix Shell
 
 ## Overview
 
